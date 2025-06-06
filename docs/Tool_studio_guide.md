@@ -6,21 +6,23 @@ Welcome to Tool Studio, your comprehensive platform for managing and deploying A
 2. **Custom Tools**: Create and deploy your own tools
 
 ## Table of Contents
-1. [What is Tool Studio?](#what-is-tool-studio)
-2. [Key Features](#key-features)
-3. [Getting Started](#getting-started)
-4. [Marketplace Guide](#marketplace-guide)
-5. [Custom Tools](#custom-tools)
-6. [Managing Deployments](#managing-deployments)
-7. [Security & Compliance](#security--compliance)
-8. [Support & Resources](#support--resources)
-9. [Future Enhancements](#future-enhancements)
+- [What is Tool Studio?](#what-is-tool-studio)
+- [Key Features](#key-features)
+- [Getting Started](#getting-started)
+- [Marketplace Guide](#marketplace-guide)
+- [Custom Tools](#custom-tools)
+- [Managing Deployments](#managing-deployments)
+- [Security & Compliance](#security--compliance)
+- [Support & Resources](#support--resources)
+- [Future Enhancements](#future-enhancements)
 
-## What is Tool Studio? {#what-is-tool-studio}
+---
+
+## What is Tool Studio?
 
 Tool Studio is a powerful platform that simplifies the process of discovering, creating, and managing AI tools. It handles all the complex infrastructure setup, allowing you to focus on what matters most - your AI solutions.
 
-## Key Features {#key-features}
+## Key Features
 
 ### Marketplace
 - **Pre-built Tools**: Access a growing library of ready-to-use tools
@@ -32,7 +34,7 @@ Tool Studio is a powerful platform that simplifies the process of discovering, c
 - **Simple Integration**: Connect your tools with minimal setup
 - **Collaboration**: Share tools with your team or the community
 
-## Getting Started {#getting-started}
+## Getting Started
 
 ### Marketplace
 1. Browse available tools in the Marketplace
@@ -45,7 +47,7 @@ Before you begin, make sure you have:
 - For Python Code: Your Python script and dependencies
 - Basic understanding of your tool's requirements
 
-## Marketplace Guide {#marketplace-guide}
+## Marketplace Guide
 
 ### 1. Browsing Tools
 1. **Explore Categories**
@@ -62,7 +64,7 @@ Before you begin, make sure you have:
    - Follow the setup wizard if configuration is needed
    - Access the tool through the provided interface
 
-## Custom Tools {#custom-tools}
+## Custom Tools
 
 ### Option 1: Connect MCP Server
 
@@ -113,7 +115,7 @@ If you already have an MCP server running:
    - Click "Deploy" to start
    - Monitor deployment progress
 
-## Managing Deployments {#managing-deployments}
+## Managing Deployments
 
 ### 1. Deployment Controls
 
@@ -163,7 +165,7 @@ If you already have an MCP server running:
    - Filter logs by date/severity
    - Download logs for analysis
 
-## Security & Compliance {#security--compliance}
+## Security & Compliance
 
 ### Data Protection
 - End-to-end encryption
@@ -171,7 +173,7 @@ If you already have an MCP server running:
 - Regular security audits
 - Automatic security updates
 
-## Support & Resources {#support--resources}
+## Support & Resources
 
 ### Help Center
 - Detailed documentation
@@ -185,7 +187,7 @@ If you already have an MCP server running:
 - Community forum
 - Bug reporting system
 
-## Future Enhancements {#future-enhancements}
+## Future Enhancements
 
 ### 1. Version Control
 - Track and manage tool versions
