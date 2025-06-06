@@ -22,6 +22,17 @@ Welcome to Tool Studio, your comprehensive platform for managing and deploying A
 
 Tool Studio is a powerful platform that simplifies the process of discovering, creating, and managing AI tools. It handles all the complex infrastructure setup, allowing you to focus on what matters most - your AI solutions.
 
+## Understanding MCP (Model Context Protocol)
+
+The Model Context Protocol (MCP) serves as a universal connector for AI agents, enabling seamless integration with external tools and data sources across various frameworks. By standardizing interactions, MCP allows agents to access and utilize diverse resources without the need for custom integrations, enhancing interoperability and efficiency in AI-driven workflows.
+
+### Why MCP Matters in Tool Studio
+- **Universal Compatibility**: Connect with any MCP-compatible tool or service
+- **Simplified Integration**: Eliminate the need for custom API integrations
+- **Standardized Interactions**: Consistent way to interact with different AI tools
+- **Enhanced Interoperability**: Seamlessly combine tools from different providers
+- **Future-Proof**: As an open standard, ensures long-term compatibility and support
+
 ## Key Features
 
 ### Marketplace
